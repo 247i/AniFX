@@ -11,7 +11,7 @@ jobs:
       uses: montudor/action-zip@v1
 
     - name: கட்டு
-      run: zip -qq -r Output.zip அணிஉரு
+      run: zip -qq -r Output.zip அணிஉரு சின்னமுரு
       working-directory: .
 
     - name: குறிச்சொல் மாற்று

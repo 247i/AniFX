@@ -8,7 +8,7 @@ Comment=English language file for AniFX
 [frmMain]
 actnTools.Caption=Tools
 actnExit.Caption=Exit
-actnAbout.Caption=About...
+actnAbout.Caption=பற்றி...
 actnPreview.Caption=Preview
 actnColors.Caption=Colors
 actnNew.Caption=New
@@ -236,7 +236,7 @@ btnBlur.Hint=Blur/Sharpen (])
 frmAbout.Caption=பற்றி
 lblMem.Caption=Memory Available to Windows:
 lblCaption.Caption=பற்றி
-lblHelp.Caption=Information about AniFX
+lblHelp.Caption=AniFX பற்றி தகவல்
 btnOK.Caption=OK
 TabSheet1.Caption=பற்றி
 TabSheet2.Caption=Acknowledgments
