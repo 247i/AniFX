@@ -35,14 +35,14 @@ actnGrayscale.Caption=சாம்பல் அளவு
 actnInvert.Caption=தலைகீழ்
 actnRed.Caption=சிவப்பு
 actnGreen.Caption=பச்சை
-actnBlue.Caption=நீலம்actnYellow.Caption=மஞ்சள்actnCyan.Caption=சியான்actnMagenta.Caption=மெஜந்தாactnRedGreen.Caption=சிவப்பு-பச்சையை மாற்றவும்actnRedBlue.Caption=சிவப்பு-நீலத்தை மாற்றவும்actnBreenBlue.Caption=பச்சை-நீலத்தை மாற்றவும்actEmbossColor.Caption=புடைப்பு நிறம்actEmbossLight.Caption=Emboss LightactEmboss.Caption=EmbossactEmbossDark.Caption=எபோஸ் டார்க்actAverage.Caption=சராசரிactBlurNormal.Caption=BluractBlurSoft.Caption=மென்மை மங்கலாக்குactBlurMore.Caption=மேலும் மங்கலாக்குactBlurMotion.Caption=Motion BluractEdgesVert.Caption=விளிம்புகளை கண்டுபிடி (செங்குத்து)actEdgesHoriz.Caption=விளிம்புகளை கண்டுபிடி (கிடைமட்டமாக)actEnhanceEdges.Caption=முனைகளை மேம்படுத்துactEdgeDetect.Caption=முனைகளைக் கண்டறிகactEdgeStrong.Caption=முனைகள் வலிமையானவைactEdgeWeak.Caption=விளிம்புகள் பலவீனமானதுactContour.Caption=ContouractSharpen.Caption=SharpenactSharpenLess.Caption=குறைவாக கூர்மைப்படுத்துactSharpenMore.Caption=மேலும் கூர்மைப்படுத்துactSharpenDir.Caption=திசையை கூர்மைப்படுத்துactGlow.Caption=GlowactWaggle.Caption=அசைத்தல்actPattern.Caption=PatternactPaintDark.Caption=இருண்ட பெயிண்ட்actPaintBright.Caption=பெயிண்ட் பெயிண்ட்actShake.Caption=ShakeactShakeLess.Caption=குலுக்கல் குறைவாகactPale.தலைப்பு=வெளிர்actScene.Caption=SceneactCustom.Caption=Custom Filter...actnFlipHoriz.Caption=கிடைமட்டமாக புரட்டவும்actnFlipVert.Caption=செங்குத்து புரட்டவும்
-actnRotateLeft.Caption=Rotate Left 90�
-actnRotateRight.Caption=Rotate Right 90�
-actnRotate.Caption=Rotate 180�
-actnLeft.Caption=Left
-actnRight.Caption=Right
-actnUp.Caption=Up
-actnDown.Caption=Down
+actnBlue.Caption=நீலம்actnYellow.Caption=மஞ்சள்actnCyan.Caption=சியான்actnMagenta.Caption=மெஜந்தாactnRedGreen.Caption=சிவப்பு-பச்சையை மாற்றவும்actnRedBlue.Caption=சிவப்பு-நீலத்தை மாற்றவும்actnBreenBlue.Caption=பச்சை-நீலத்தை மாற்றவும்actEmbossColor.Caption=புடைப்பு நிறம்actEmbossLight.Caption=Emboss LightactEmboss.Caption=EmbossactEmbossDark.Caption=எபோஸ் டார்க்actAverage.Caption=சராசரிactBlurNormal.Caption=BluractBlurSoft.Caption=மென்மை மங்கலாக்குactBlurMore.Caption=மேலும் மங்கலாக்குactBlurMotion.Caption=Motion BluractEdgesVert.Caption=விளிம்புகளை கண்டுபிடி (செங்குத்து)actEdgesHoriz.Caption=விளிம்புகளை கண்டுபிடி (கிடைமட்டமாக)actEnhanceEdges.Caption=முனைகளை மேம்படுத்துactEdgeDetect.Caption=முனைகளைக் கண்டறிகactEdgeStrong.Caption=முனைகள் வலிமையானவைactEdgeWeak.Caption=விளிம்புகள் பலவீனமானதுactContour.Caption=ContouractSharpen.Caption=SharpenactSharpenLess.Caption=குறைவாக கூர்மைப்படுத்துactSharpenMore.Caption=மேலும் கூர்மைப்படுத்துactSharpenDir.Caption=திசையை கூர்மைப்படுத்துactGlow.Caption=மின்னுதல்actWaggle.Caption=அசைத்தல்actPattern.Caption=PatternactPaintDark.Caption=இருண்ட நிறம்actPaintBright.Caption=வெளிர் நிறம்actShake.Caption=அசைactShakeLess.Caption=குலுக்கல் குறைவாகactPale.தலைப்பு=வெளிர்actScene.Caption=SceneactCustom.Caption=Custom Filter...actnFlipHoriz.Caption=கிடைமட்டமாக புரட்டவும்actnFlipVert.Caption=செங்குத்து புரட்டவும்
+actnRotateLeft.Caption=இடப்பக்கம் திருப்பு 90�
+actnRotateRight.Caption=வலபக்கம் திருப்பு 90�
+actnRotate.Caption=திருப்பு 180�
+actnLeft.Caption=இடது
+actnRight.Caption=வலது
+actnUp.Caption=மேலே
+actnDown.Caption=கீழே
 actnProp.Caption=Properties...
 actnDim.Caption=Dimension...
 actn32bit.Caption=True Colors + Alpha (32 bits)
