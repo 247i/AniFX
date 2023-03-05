@@ -31,49 +31,11 @@ ActnHue.Caption=சாயல்/செறிவு...
 actnColor.Caption=வண்ண சமநிலை...
 actPreferences.Caption=விருப்பங்கள்...
 actnSaveAs.Caption=இவ்வாறு சேமி...
-actnGrayscale.Caption=Grayscale
-actnInvert.Caption=Invert
-actnRed.Caption=Red
-actnGreen.Caption=Green
-actnBlue.Caption=Blue
-actnYellow.Caption=Yellow
-actnCyan.Caption=Cyan
-actnMagenta.Caption=Magenta
-actnRedGreen.Caption=Swap Red-Green
-actnRedBlue.Caption=Swap Red-Blue
-actnBreenBlue.Caption=Swap Green-Blue
-actEmbossColor.Caption=Emboss Color
-actEmbossLight.Caption=Emboss Light
-actEmboss.Caption=Emboss
-actEmbossDark.Caption=Emboss Dark
-actAverage.Caption=Average
-actBlurNormal.Caption=Blur
-actBlurSoft.Caption=Blur Soft
-actBlurMore.Caption=Blur More
-actBlurMotion.Caption=Motion Blur   
-actEdgesVert.Caption=Find Edges (Vertical)
-actEdgesHoriz.Caption=Find Edges (Horizontal)
-actEnhanceEdges.Caption=Enhance Edges
-actEdgeDetect.Caption=Detect Edges
-actEdgeStrong.Caption=Edges Strong
-actEdgeWeak.Caption=Edges Weak
-actContour.Caption=Contour
-actSharpen.Caption=Sharpen
-actSharpenLess.Caption=Sharpen Less
-actSharpenMore.Caption=Sharpen More
-actSharpenDir.Caption=Sharpen Directional
-actGlow.Caption=Glow
-actWaggle.Caption=Waggle
-actPattern.Caption=Pattern
-actPaintDark.Caption=Paint Dark
-actPaintBright.Caption=Paint Bright
-actShake.Caption=Shake
-actShakeLess.Caption=Shake Less
-actPale.Caption=Pale
-actScene.Caption=Scene
-actCustom.Caption=Custom Filter...
-actnFlipHoriz.Caption=Flip Horizontal
-actnFlipVert.Caption=Flip Vertical
+actnGrayscale.Caption=சாம்பல் அளவு
+actnInvert.Caption=தலைகீழ்
+actnRed.Caption=சிவப்பு
+actnGreen.Caption=பச்சை
+actnBlue.Caption=நீலம்actnYellow.Caption=மஞ்சள்actnCyan.Caption=சியான்actnMagenta.Caption=மெஜந்தாactnRedGreen.Caption=சிவப்பு-பச்சையை மாற்றவும்actnRedBlue.Caption=சிவப்பு-நீலத்தை மாற்றவும்actnBreenBlue.Caption=பச்சை-நீலத்தை மாற்றவும்actEmbossColor.Caption=புடைப்பு நிறம்actEmbossLight.Caption=Emboss LightactEmboss.Caption=EmbossactEmbossDark.Caption=எபோஸ் டார்க்actAverage.Caption=சராசரிactBlurNormal.Caption=BluractBlurSoft.Caption=மென்மை மங்கலாக்குactBlurMore.Caption=மேலும் மங்கலாக்குactBlurMotion.Caption=Motion BluractEdgesVert.Caption=விளிம்புகளை கண்டுபிடி (செங்குத்து)actEdgesHoriz.Caption=விளிம்புகளை கண்டுபிடி (கிடைமட்டமாக)actEnhanceEdges.Caption=முனைகளை மேம்படுத்துactEdgeDetect.Caption=முனைகளைக் கண்டறிகactEdgeStrong.Caption=முனைகள் வலிமையானவைactEdgeWeak.Caption=விளிம்புகள் பலவீனமானதுactContour.Caption=ContouractSharpen.Caption=SharpenactSharpenLess.Caption=குறைவாக கூர்மைப்படுத்துactSharpenMore.Caption=மேலும் கூர்மைப்படுத்துactSharpenDir.Caption=திசையை கூர்மைப்படுத்துactGlow.Caption=GlowactWaggle.Caption=அசைத்தல்actPattern.Caption=PatternactPaintDark.Caption=இருண்ட பெயிண்ட்actPaintBright.Caption=பெயிண்ட் பெயிண்ட்actShake.Caption=ShakeactShakeLess.Caption=குலுக்கல் குறைவாகactPale.தலைப்பு=வெளிர்actScene.Caption=SceneactCustom.Caption=Custom Filter...actnFlipHoriz.Caption=கிடைமட்டமாக புரட்டவும்actnFlipVert.Caption=செங்குத்து புரட்டவும்
 actnRotateLeft.Caption=Rotate Left 90�
 actnRotateRight.Caption=Rotate Right 90�
 actnRotate.Caption=Rotate 180�
