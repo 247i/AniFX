@@ -1,14 +1,14 @@
 ﻿[General]
 # The translator of the language file
-Author=Attila Kovrig
+Author=தமிழ் நேரம்
 # The web site of the translator (can be left empty if not applicable)
-WebAddress=https://icofx.ro
+WebAddress=https://TamilNeram.github.io/
 # Language name in English
 LanguageName=Tamil
 # Localized language name
 LocalizedLanguageName=தமிழ்
 # Comment of the translator
-Comment=English language file for IcoFX
+Comment=சின்னமுரு தமிழாக்கம்
 # Ignore accents during search
 IgnoreAccents=false
 
